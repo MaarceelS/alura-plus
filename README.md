@@ -1,5 +1,7 @@
 # 💻 Alura Plus
 
+![Preview do projeto](https://i.imgur.com/r7K8FQq.png)
+
 Este repositório apresenta o projeto **Alura Plus**, desenvolvido junto com as aulas da plataforma **Alura** com o objetivo de praticar conceitos fundamentais de **HTML** e **CSS**.
 
 > 🎓 Projeto desenvolvido durante os cursos da Alura com foco na construção de páginas modernas, estilizadas e com estrutura de layout bem definida.
