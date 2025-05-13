@@ -36,4 +36,4 @@ O **Alura Plus** simula uma landing page de um serviço de streaming, com destaq
 
 ## 🔗 Link para visualização
 
-👉 [**Visualizar Alura Plus**](https://maarceels.github.io/alura-plus/)
+👉 [**Visualizar Alura Plus**](https://alura-plus-azure-xi.vercel.app/)
